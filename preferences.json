@@ -1,0 +1,29 @@
+{
+	"favorite movie":[
+		"Harry Potter",
+		"Lord or the Rings",
+		"50 shades or grey",
+		"Step up",
+		"The Hunger Games"
+	],
+"favorite serial":null
+"favorite food":[
+	"pasta",
+	"pizza",
+	"sushi",
+	"borsh",
+	"olivier salad",
+	"camambert cheeze"
+],
+"favorite time of year":[
+	"summer",
+	"spring",
+	"winter"
+],
+
+"country i would like to visit":["USA", "UK", "Argentina","Japan" ]
+}
+
+
+
+
