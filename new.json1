@@ -1,4 +1,15 @@
-Hi
-This is my first homework on gitbush
-I hope i manage
-Bye
+{
+ "person":{
+ "name":"Nastya",
+ "surname":"Kriukova"
+ "patronymic":"Igorevna"
+ "age":32
+},
+ "cat":true
+ "quantity":1
+ "dog":false
+ "quantity":null
+ "desired salary:3000
+ "currency":"euro"
+}
+
