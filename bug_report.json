@@ -1,11 +1,11 @@
 { 
-  "name bug report":"The "Add to basket" button not added product from the "Product catalog" to basket",
+  "name bug report":"The 'Add to basket' button not added product from the 'Product catalog' to basket",
   "steps to reprodused":[
   "go to main page vprok.ru",
-  "on the sidebar click the "product catalog" and select a category",
-  "select a product and click "add to basket",
+  "on the sidebar click the 'product catalog' and select a category",
+  "select a product and click 'add to basket',
   "the selected product is in the basket"
   ],
-"expected result":" After "Add to basket" button product added to basket",
-"actual result":"After "Add to basket" button product not added to basket"
+"expected result":" After 'Add to basket' button product added to basket",
+"actual result":"After 'Add to basket' button product not added to basket"
 }
